@@ -1,2 +1,2 @@
 # fatiNews
-This is a C# project!
+This is a project!
