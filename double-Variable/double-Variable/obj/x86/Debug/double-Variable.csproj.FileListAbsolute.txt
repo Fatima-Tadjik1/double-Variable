@@ -1,0 +1,6 @@
+/home/fatima/Projects/double-Variable/double-Variable/bin/Debug/double-Variable.exe
+/home/fatima/Projects/double-Variable/double-Variable/bin/Debug/double-Variable.pdb
+/home/fatima/Projects/double-Variable/double-Variable/obj/x86/Debug/double-Variable.csproj.AssemblyReference.cache
+/home/fatima/Projects/double-Variable/double-Variable/obj/x86/Debug/double-Variable.csproj.CoreCompileInputs.cache
+/home/fatima/Projects/double-Variable/double-Variable/obj/x86/Debug/double-Variable.exe
+/home/fatima/Projects/double-Variable/double-Variable/obj/x86/Debug/double-Variable.pdb
